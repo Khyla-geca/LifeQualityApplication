@@ -25,7 +25,7 @@
 
 ![Product Name Screen Shot](src/img/screenshot.jpeg)
 
-This is a simple vanilla Javascript web app that fetches cities life quality data from the [Teleport](https://developers.teleport.org/api/getting_started/) free API, and displays them.
+This is a Javascript web app that fetches cities life quality data from the [Teleport](https://developers.teleport.org/api/getting_started/) free API, and displays them.
 
 The user can discover info about its preferred city via search input.
 
