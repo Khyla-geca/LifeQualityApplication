@@ -58,9 +58,11 @@ of the city. These life quality data are then displayed on the interface.
 
 ## Links 
 
-Project Repository:
+Project Repository:  [Home Sweet Home](https://github.com/Khyla-geca/LifeQualityApplication)
 
-Project Website: 
+Project Website:  [Home Sweet Home - Netlify](https://lifequalityapplication.netlify.app/)
+
+
 
 
 
