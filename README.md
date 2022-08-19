@@ -1,7 +1,7 @@
 
 ## About The Project
 
-![Product Name Screen Shot](/src/img/screenshot.jpeg)
+![Product Name Screen Shot](src/img/screenshot.jpeg)
 
 This is a simple vanilla Javascript web app that fetches cities life quality data from the [Teleport](https://developers.teleport.org/api/getting_started/) free API, and displays them.
 
