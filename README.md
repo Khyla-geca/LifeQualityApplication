@@ -35,7 +35,7 @@ You can then install the latest version of npm from your terminal with the comma
 1. Clone the repository locally with the git command:
 
    ```sh
-   git clone https://github.com/claudiovarzi/life-quality-app
+   git clone https://github.com/Khyla-geca/LifeQualityApplication
    ```
 
 2. Install NPM packages:
